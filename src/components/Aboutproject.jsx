@@ -21,9 +21,16 @@ const About = () => {
                         <b>Name:</b> Godfred Awudi
                     </p>
 
-                    <button className="btn btn-primary">
-                        YouTube Video
-                    </button>
+                    <a href="https://www.linkedin.com/in/godfred-awudi/" className="section-text">
+                        My LinkedIn Profile: https://www.linkedin.com/in/godfred-awudi/
+                    </a>
+                    
+                    <a href="https://youtu.be/OiFRtpdGf74">
+                        <button className="btn btn-primary">
+                            YouTube Video
+                        </button>
+                    </a>
+                    
                 </div>
             </div>
         </section>

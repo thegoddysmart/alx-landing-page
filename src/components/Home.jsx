@@ -19,7 +19,7 @@ const About = () => {
                         Goddy Smart Labs Website is designed to offer an engaging online presence for a media branding agency that provides startup branding services, business consultation, and design services. This project aims to create a dynamic and user-friendly web application that allows potential clients to explore services.
                     </p>
 
-                    <p className="section-t">
+                    <p className="section-text">
                     Hero Page: The landing page with a compelling hero section has been fully implemented.
                     About Us Page: This page provides detailed information about the company and its mission.
                     Services Page: A comprehensive list of services offered by the company, including detailed descriptions.
